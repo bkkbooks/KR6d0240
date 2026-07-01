@@ -1,0 +1,1088 @@
+canonical_identifier: bkk:krp/KR6d0240/v1
+canonical_location: https://kanripo.org/bkk/KR6d0240/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 台宗十類因革論
+  identifiers:
+    alt_id:
+    - X57n0964
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0964.xml
+    old_id: X57n0964
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0240_000.yaml, hash: 'sha256:b768c4f96fbb1d510a2e7901dd20e180170a6f15cd5af190945c34e25926668f'}
+  - {seq: 1, filename: KR6d0240_001.yaml, hash: 'sha256:e6140ac24a851a846c07380754eaa4d8ef426802530cf4f6e4fd8766202c9d35'}
+  - {seq: 2, filename: KR6d0240_002.yaml, hash: 'sha256:5131c81d14f49f15de0c4e8b24458e7e0d1859ce8715b76abaf60188108cee41'}
+  - {seq: 3, filename: KR6d0240_003.yaml, hash: 'sha256:7671c423a922d13b716964dcc645059530bd45adc598f4f3a33eeeffdd6c45cd'}
+  - {seq: 4, filename: KR6d0240_004.yaml, hash: 'sha256:c31098f9dafbe37ba859caab30354a283963ec1dbbb552120e5da4fa2d50b36d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0240_001.markers.yaml, hash: 'sha256:c798f9c6f8aa50d26a31f381dcb8656ea3ea327e2fb3cf2c88b27f9057dc652a'}
+  - {seq: 2, role: markers, filename: assets/KR6d0240_002.markers.yaml, hash: 'sha256:e50d529cb1bc4462a983e9f268c65da16b74f9f5c16722f6813b6b841438b039'}
+  - {seq: 3, role: markers, filename: assets/KR6d0240_003.markers.yaml, hash: 'sha256:bc3c3d2dc52ed7f0d7016747603db353a10e31251023399412da25e94ba8e2b0'}
+  - {seq: 4, role: markers, filename: assets/KR6d0240_004.markers.yaml, hash: 'sha256:754616ce332dab30994b7a90d0391377b2ce82a29210bf96308fd7166e6c0a26'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0240_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 台宗十類因革論目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20576
+  label: 台宗十類因革論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-2
+    span:
+    - body
+    - 317
+    - 317
+  label: 經體論第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-3
+    span:
+    - body
+    - 326
+    - 326
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-4
+    span:
+    - body
+    - 739
+    - 739
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-5
+    span:
+    - body
+    - 805
+    - 805
+  label: 法華開廢取體例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-6
+    span:
+    - body
+    - 1801
+    - 1801
+  label: 離合法相辨體例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-7
+    span:
+    - body
+    - 3638
+    - 3638
+  label: 旁出涅槃五章例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-8
+    span:
+    - body
+    - 4263
+    - 4263
+  label: 諸經指體同異例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-9
+    span:
+    - body
+    - 4954
+    - 4954
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-10
+    span:
+    - body
+    - 6699
+    - 6699
+  label: 經王論第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-11
+    span:
+    - body
+    - 6704
+    - 6704
+  label: 總編上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-12
+    span:
+    - body
+    - 7087
+    - 7087
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-13
+    span:
+    - body
+    - 7131
+    - 7131
+  label: 法華釋王部教例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-14
+    span:
+    - body
+    - 7885
+    - 7885
+  label: 光明經王文旨例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-15
+    span:
+    - body
+    - 8713
+    - 8713
+  label: 王體同異例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-16
+    span:
+    - body
+    - 8927
+    - 8927
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-17
+    span:
+    - body
+    - 10150
+    - 10150
+  label: 隨緣論第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-18
+    span:
+    - body
+    - 10150
+    - 10150
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-19
+    span:
+    - body
+    - 10156
+    - 10156
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-20
+    span:
+    - body
+    - 10238
+    - 10238
+  label: 隨緣生法大體例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-21
+    span:
+    - body
+    - 11051
+    - 11051
+  label: 兼出二論立識生法不同例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-22
+    span:
+    - body
+    - 11773
+    - 11773
+  label: 示隨緣文義所出論疏例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-23
+    span:
+    - body
+    - 13379
+    - 13379
+  label: 約今別圓通示隨緣例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-24
+    span:
+    - body
+    - 15190
+    - 15190
+  label: 因生法言無住本例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-25
+    span:
+    - body
+    - 16362
+    - 16362
+  label: 義涉性類二種例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0240_X_001-mulu-26
+    span:
+    - body
+    - 17639
+    - 17639
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21418
+  label: 台宗十類因革論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 習氣論第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-3
+    span:
+    - body
+    - 396
+    - 396
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-4
+    span:
+    - body
+    - 466
+    - 466
+  label: 三惑正使名相例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-5
+    span:
+    - body
+    - 1141
+    - 1141
+  label: 約大小乘言習氣不同例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-6
+    span:
+    - body
+    - 1844
+    - 1844
+  label: 圓位斷習進否有無例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-7
+    span:
+    - body
+    - 2685
+    - 2685
+  label: 文指結習通別同異例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-8
+    span:
+    - body
+    - 3499
+    - 3499
+  label: 示正習斷破文涉餘義例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-9
+    span:
+    - body
+    - 4276
+    - 4276
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-10
+    span:
+    - body
+    - 5859
+    - 5859
+  label: 觀法論第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-11
+    span:
+    - body
+    - 5864
+    - 5864
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-12
+    span:
+    - body
+    - 6328
+    - 6328
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-13
+    span:
+    - body
+    - 6426
+    - 6426
+  label: 三千大旨例上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-14
+    span:
+    - body
+    - 8436
+    - 8436
+  label: 三千論文例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-15
+    span:
+    - body
+    - 10058
+    - 10058
+  label: 三千釋疑例下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-16
+    span:
+    - body
+    - 11579
+    - 11579
+  label: 三種觀法例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-17
+    span:
+    - body
+    - 13193
+    - 13193
+  label: 十乘觀相例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-18
+    span:
+    - body
+    - 14229
+    - 14229
+  label: 四種三昧行法例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-19
+    span:
+    - body
+    - 15317
+    - 15317
+  label: 事理二觀例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-20
+    span:
+    - body
+    - 16958
+    - 16958
+  label: 觀心觀佛例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-21
+    span:
+    - body
+    - 17774
+    - 17774
+  label: 勝別三觀兼餘觀相例
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-22
+    span:
+    - body
+    - 19671
+    - 19671
+  label: 通相餘論上
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-23
+    span:
+    - body
+    - 20611
+    - 20611
+  label: 通相餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0240_X_002-mulu-24
+    span:
+    - body
+    - 21214
+    - 21214
+  label: 境觀不二兼附餘義例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 19248
+  label: 台宗十類因革論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 觀法餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-2
+    span:
+    - body
+    - 2176
+    - 2176
+  label: 二空論第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-3
+    span:
+    - body
+    - 2181
+    - 2181
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-4
+    span:
+    - body
+    - 2454
+    - 2454
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-5
+    span:
+    - body
+    - 2519
+    - 2519
+  label: 示性相生法觀相通別例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-6
+    span:
+    - body
+    - 3629
+    - 3629
+  label: 對教明觀進否例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-7
+    span:
+    - body
+    - 4315
+    - 4315
+  label: 約觀對諦破顯不同例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-8
+    span:
+    - body
+    - 4836
+    - 4836
+  label: 圓論性相兼涉三境例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-9
+    span:
+    - body
+    - 5687
+    - 5687
+  label: 總明二空餘義倒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-10
+    span:
+    - body
+    - 6499
+    - 6499
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-11
+    span:
+    - body
+    - 7949
+    - 7949
+  label: 被接論第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-12
+    span:
+    - body
+    - 7954
+    - 7954
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-13
+    span:
+    - body
+    - 8282
+    - 8282
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-14
+    span:
+    - body
+    - 8353
+    - 8353
+  label: 通示接義有含中點示發習例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-15
+    span:
+    - body
+    - 9221
+    - 9221
+  label: 言接不接并接會同異例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-16
+    span:
+    - body
+    - 9876
+    - 9876
+  label: 對明玄及止觀三接一接例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-17
+    span:
+    - body
+    - 10444
+    - 10444
+  label: 因辨涅槃被接可否例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-18
+    span:
+    - body
+    - 11095
+    - 11095
+  label: 兼出被接餘義例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-19
+    span:
+    - body
+    - 11586
+    - 11586
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-20
+    span:
+    - body
+    - 13008
+    - 13008
+  label: 教證論第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-21
+    span:
+    - body
+    - 13013
+    - 13013
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-22
+    span:
+    - body
+    - 13317
+    - 13317
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-23
+    span:
+    - body
+    - 13389
+    - 13389
+  label: 教證大體例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-24
+    span:
+    - body
+    - 14179
+    - 14179
+  label: 四種教證例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-25
+    span:
+    - body
+    - 15131
+    - 15131
+  label: 初心知中例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-26
+    span:
+    - body
+    - 15631
+    - 15631
+  label: 圓修橫學例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-27
+    span:
+    - body
+    - 16599
+    - 16599
+  label: 六種性習文涉教證例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-28
+    span:
+    - body
+    - 17191
+    - 17191
+  label: 散出諸文明教證餘義例
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0240_X_003-mulu-29
+    span:
+    - body
+    - 17835
+    - 17835
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 20323
+  label: 台宗十類因革論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 壽量論第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-2
+    span:
+    - body
+    - 5
+    - 5
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-3
+    span:
+    - body
+    - 300
+    - 300
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-4
+    span:
+    - body
+    - 388
+    - 388
+  label: 四佛身相機見體用同異例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-5
+    span:
+    - body
+    - 1560
+    - 1560
+  label: 三身壽量身說不同例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-6
+    span:
+    - body
+    - 3926
+    - 3926
+  label: 諸身開合例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-7
+    span:
+    - body
+    - 4656
+    - 4656
+  label: 六能四句釋量無量例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-8
+    span:
+    - body
+    - 5850
+    - 5850
+  label: 應相勝劣例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-9
+    span:
+    - body
+    - 7651
+    - 7651
+  label: 教主應相例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-10
+    span:
+    - body
+    - 9458
+    - 9458
+  label: 身土感應例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-11
+    span:
+    - body
+    - 10019
+    - 10019
+  label: 餘論下
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-12
+    span:
+    - body
+    - 13854
+    - 13854
+  label: 四土論第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-13
+    span:
+    - body
+    - 13859
+    - 13859
+  label: 總篇上
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-14
+    span:
+    - body
+    - 14230
+    - 14230
+  label: 別例中
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-15
+    span:
+    - body
+    - 14303
+    - 14303
+  label: 通示四土名相即離相攝例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-16
+    span:
+    - body
+    - 14966
+    - 14966
+  label: 別論寂光體相例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-17
+    span:
+    - body
+    - 16318
+    - 16318
+  label: 土教相對橫竪例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-18
+    span:
+    - body
+    - 16981
+    - 16981
+  label: 四土各有淨穢例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-19
+    span:
+    - body
+    - 17392
+    - 17392
+  label: 明方便土涉意生身例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-20
+    span:
+    - body
+    - 18363
+    - 18363
+  label: 兼出土教餘義例
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0240_X_004-mulu-21
+    span:
+    - body
+    - 18916
+    - 18916
+  label: 餘論下
+  type: mulu
+  level: 1
+hash: sha256:8a18c6abc56c267d53c45743178f70a8653555a61993136869e2d0c1d5eaebcf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
