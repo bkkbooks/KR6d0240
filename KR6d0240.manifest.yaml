@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0240_000.yaml, hash: 'sha256:a360f86fab1892848240837bfb6abff5d82010001148843653e5cca8e4c420bf'}
+  - {seq: 0, filename: KR6d0240_000.yaml, hash: 'sha256:78a2a8b1ab3016f7a107e658cec2f02bf68335932dc26bd6639be8ec6a9f11b8'}
   - {seq: 1, filename: KR6d0240_001.yaml, hash: 'sha256:876dfaab36b35f52be27a0ea93baf5b637b1fa3e68be16206503f7029e0bce6e'}
   - {seq: 2, filename: KR6d0240_002.yaml, hash: 'sha256:fa1512586f2d7983fa96755dbdafcd9060e9bb9fab359061e3fc4ec0891bce58'}
   - {seq: 3, filename: KR6d0240_003.yaml, hash: 'sha256:3720f97e40a26cdd79523f7e16b3a46ed8ac8ea1dfa24cd0a04ff7c7c3822ee0'}
   - {seq: 4, filename: KR6d0240_004.yaml, hash: 'sha256:da204d4c472b5a1cc917c390788c307354c9c439b56dd320d8e4d29887a56413'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0240_000.markers.yaml, hash: 'sha256:1e6bc1cdfd547be74bcd8f4f80764034783479b89026b598989a384380989ea7'}
+  - {seq: 0, role: markers, filename: assets/KR6d0240_000.markers.yaml, hash: 'sha256:22d75a9f25c334050a85d34ef3594ed06d0a199b284d4f11f901491d34bf6059'}
   - {seq: 1, role: markers, filename: assets/KR6d0240_001.markers.yaml, hash: 'sha256:844396b050e851b8c8a6a4df66040075790d779de3e911f1bd20e0fc3b92de4a'}
   - {seq: 2, role: markers, filename: assets/KR6d0240_002.markers.yaml, hash: 'sha256:d7ae94d12fafae9be3b9609baf19561c43bdd08234031f36f1a236fbfd65e036'}
   - {seq: 3, role: markers, filename: assets/KR6d0240_003.markers.yaml, hash: 'sha256:4cbf30e501496a50142782ea1779e876b2e1802a34cacbd33e4698fe5b2cb2af'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0240_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 台宗十類因革論目次
@@ -1083,7 +1083,7 @@ table_of_contents:
   label: 餘論下
   type: mulu
   level: 1
-hash: sha256:55093f441a2f82dd13cdaad7bb8db8831b5acb4b110031ba25eb0f048a299a4d
+hash: sha256:e8b3a5cb7863267d91d1b8f891f95037996a68d5d54d645d75195039fefadbaf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
